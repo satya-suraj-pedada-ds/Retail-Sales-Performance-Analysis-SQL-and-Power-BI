@@ -153,8 +153,8 @@ Five professional dashboards were created:
 M.Tech Data Science  
 Aspiring Data Analyst / Data Scientist  
 
-- GitHub: [Your GitHub Profile Link]
-- LinkedIn: [Your LinkedIn Profile Link]
+- GitHub: https://github.com/satya-suraj-pedada-ds
+- LinkedIn: https://www.linkedin.com/in/satya-suraj-pedada-773239305/
 - Email: surajmtechds24@gmail.com
 
 ---
