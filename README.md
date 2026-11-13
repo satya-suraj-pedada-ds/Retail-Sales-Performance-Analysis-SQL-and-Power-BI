@@ -126,10 +126,10 @@ Five professional dashboards were created:
 ## 8. How to Use This Project
 
 1. **SQL File**  
-   Open `sql/supermarket_retail.sql` in MySQL Workbench and run the scripts sequentially.
+   Open `sql/Super Market_Sales Retail.sql` in MySQL Workbench and run the scripts sequentially.
 
 2. **Power BI File**  
-   Open `power-bi/supermarket_retail.pbix` in Power BI Desktop.  
+   Open `power-bi/Supermarket_RetailSales_Analysis.pbix` in Power BI Desktop.  
    (Update the data source path if required)
 
 3. **Dashboard Images**  
